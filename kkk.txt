@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/pagalas07/pakor/main/mnb.txt
+https://raw.githubusercontent.com/pagalas07/pakor/main/mnbc.txt
+https://raw.githubusercontent.com/pagalas07/pakor/main/srv.txt
